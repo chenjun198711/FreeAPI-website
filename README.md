@@ -77,8 +77,8 @@ api-website/
 ### Installation
 
 ```bash
-git clone https://github.com/chenjun198711/api-website.git
-cd api-website
+git clone https://github.com/chenjun198711/FreeAPI-website.git
+cd FreeAPI-website
 npm install
 ```
 
