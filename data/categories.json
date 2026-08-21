@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "animals",
+    "name": "Animals",
+    "icon": "🐾",
+    "count": 28
+  },
+  {
+    "slug": "anime",
+    "name": "Anime",
+    "icon": "🎌",
+    "count": 19
+  },
+  {
+    "slug": "anti-malware",
+    "name": "Anti-Malware",
+    "icon": "🛡️",
+    "count": 15
+  },
+  {
+    "slug": "art--design",
+    "name": "Art & Design",
+    "icon": "🎨",
+    "count": 20
+  },
+  {
+    "slug": "authentication--authorization",
+    "name": "Authentication & Authorization",
+    "icon": "🔐",
+    "count": 7
+  },
+  {
+    "slug": "blockchain",
+    "name": "Blockchain",
+    "icon": "⛓️",
+    "count": 11
+  },
+  {
+    "slug": "books",
+    "name": "Books",
+    "icon": "📚",
+    "count": 25
+  },
+  {
+    "slug": "business",
+    "name": "Business",
+    "icon": "💼",
+    "count": 23
+  },
+  {
+    "slug": "calendar",
+    "name": "Calendar",
+    "icon": "📅",
+    "count": 16
+  },
+  {
+    "slug": "cloud-storage--file-sharing",
+    "name": "Cloud Storage & File Sharing",
+    "icon": "☁️",
+    "count": 20
+  },
+  {
+    "slug": "continuous-integration",
+    "name": "Continuous Integration",
+    "icon": "🔄",
+    "count": 6
+  },
+  {
+    "slug": "cryptocurrency",
+    "name": "Cryptocurrency",
+    "icon": "🪙",
+    "count": 66
+  },
+  {
+    "slug": "currency-exchange",
+    "name": "Currency Exchange",
+    "icon": "💱",
+    "count": 18
+  },
+  {
+    "slug": "data-validation",
+    "name": "Data Validation",
+    "icon": "✅",
+    "count": 7
+  },
+  {
+    "slug": "development",
+    "name": "Development",
+    "icon": "💻",
+    "count": 125
+  },
+  {
+    "slug": "dictionaries",
+    "name": "Dictionaries",
+    "icon": "📖",
+    "count": 13
+  },
+  {
+    "slug": "documents--productivity",
+    "name": "Documents & Productivity",
+    "icon": "📄",
+    "count": 30
+  },
+  {
+    "slug": "email",
+    "name": "Email",
+    "icon": "📧",
+    "count": 19
+  },
+  {
+    "slug": "entertainment",
+    "name": "Entertainment",
+    "icon": "🎬",
+    "count": 14
+  },
+  {
+    "slug": "environment",
+    "name": "Environment",
+    "icon": "🌿",
+    "count": 17
+  },
+  {
+    "slug": "events",
+    "name": "Events",
+    "icon": "📆",
+    "count": 3
+  },
+  {
+    "slug": "finance",
+    "name": "Finance",
+    "icon": "💰",
+    "count": 46
+  },
+  {
+    "slug": "food--drink",
+    "name": "Food & Drink",
+    "icon": "🍔",
+    "count": 25
+  },
+  {
+    "slug": "games--comics",
+    "name": "Games & Comics",
+    "icon": "🎮",
+    "count": 95
+  },
+  {
+    "slug": "geocoding",
+    "name": "Geocoding",
+    "icon": "📍",
+    "count": 89
+  },
+  {
+    "slug": "government",
+    "name": "Government",
+    "icon": "🏛️",
+    "count": 90
+  },
+  {
+    "slug": "health",
+    "name": "Health",
+    "icon": "🏥",
+    "count": 32
+  },
+  {
+    "slug": "jobs",
+    "name": "Jobs",
+    "icon": "💼",
+    "count": 19
+  },
+  {
+    "slug": "machine-learning",
+    "name": "Machine Learning",
+    "icon": "🤖",
+    "count": 26
+  },
+  {
+    "slug": "music",
+    "name": "Music",
+    "icon": "🎵",
+    "count": 35
+  },
+  {
+    "slug": "news",
+    "name": "News",
+    "icon": "📰",
+    "count": 20
+  },
+  {
+    "slug": "open-data",
+    "name": "Open Data",
+    "icon": "📂",
+    "count": 39
+  },
+  {
+    "slug": "open-source-projects",
+    "name": "Open Source Projects",
+    "icon": "🌟",
+    "count": 9
+  },
+  {
+    "slug": "patent",
+    "name": "Patent",
+    "icon": "📜",
+    "count": 4
+  },
+  {
+    "slug": "personality",
+    "name": "Personality",
+    "icon": "🧠",
+    "count": 23
+  },
+  {
+    "slug": "phone",
+    "name": "Phone",
+    "icon": "📱",
+    "count": 6
+  },
+  {
+    "slug": "photography",
+    "name": "Photography",
+    "icon": "📷",
+    "count": 29
+  },
+  {
+    "slug": "programming",
+    "name": "Programming",
+    "icon": "👨‍💻",
+    "count": 5
+  },
+  {
+    "slug": "science--math",
+    "name": "Science & Math",
+    "icon": "🔬",
+    "count": 35
+  },
+  {
+    "slug": "security",
+    "name": "Security",
+    "icon": "🔒",
+    "count": 40
+  },
+  {
+    "slug": "shopping",
+    "name": "Shopping",
+    "icon": "🛒",
+    "count": 14
+  },
+  {
+    "slug": "social",
+    "name": "Social",
+    "icon": "💬",
+    "count": 41
+  },
+  {
+    "slug": "sports--fitness",
+    "name": "Sports & Fitness",
+    "icon": "⚽",
+    "count": 36
+  },
+  {
+    "slug": "test-data",
+    "name": "Test Data",
+    "icon": "🧪",
+    "count": 25
+  },
+  {
+    "slug": "text-analysis",
+    "name": "Text Analysis",
+    "icon": "📝",
+    "count": 16
+  },
+  {
+    "slug": "tracking",
+    "name": "Tracking",
+    "icon": "📦",
+    "count": 10
+  },
+  {
+    "slug": "transportation",
+    "name": "Transportation",
+    "icon": "🚌",
+    "count": 70
+  },
+  {
+    "slug": "url-shorteners",
+    "name": "URL Shorteners",
+    "icon": "🔗",
+    "count": 19
+  },
+  {
+    "slug": "vehicle",
+    "name": "Vehicle",
+    "icon": "🚗",
+    "count": 6
+  },
+  {
+    "slug": "video",
+    "name": "Video",
+    "icon": "🎥",
+    "count": 43
+  },
+  {
+    "slug": "weather",
+    "name": "Weather",
+    "icon": "🌤️",
+    "count": 34
+  }
+]
